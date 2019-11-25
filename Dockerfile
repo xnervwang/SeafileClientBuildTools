@@ -6,4 +6,4 @@ RUN dnf install git -y \
   && bash /SeafileClientBuildTools/InstallDevPackagesFedora.sh
 
 # CMD is in runtime.
-CMD ["/SeafileClientBuildTools/RunCmdInDocker.sh"]
+CMD ["/SeafileClientBuildTools/DockerEntry.sh"]
