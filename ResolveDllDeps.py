@@ -1,6 +1,6 @@
 #!/usr/bin/python2.7
 
-# Copyright 2025, Xnerv Wang <xnervwang@gmail.com>
+# Copyright 2019-2025, Xnerv Wang <xnervwang@gmail.com>
 #
 # Redistribution and use in source and binary forms, with or 
 # without modification, are permitted provided that the 
